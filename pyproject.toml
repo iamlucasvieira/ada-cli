@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ada-cli"
-version = "0.0.1"
+version = "0.0.2"
 description = "Ada CLI"
 authors = ["Lucas Vieira dos Santos <lucas6eng@gmail.com>"]
 license = "MIT"
@@ -21,6 +21,7 @@ Changelog = "https://github.com/iamlucassantos/ada-cli/releases"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = ">=8.0.1"
+furo = "2022.4.7"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
