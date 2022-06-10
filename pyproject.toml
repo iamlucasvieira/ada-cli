@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ada-cli"
-version = "0.0.0"
+version = "0.0.1"
 description = "Ada CLI"
 authors = ["Lucas Vieira dos Santos <lucas6eng@gmail.com>"]
 license = "MIT"
