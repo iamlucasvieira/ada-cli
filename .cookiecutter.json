@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/lucas/dev",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Lucas Vieira dos Santos",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "lucas6eng@gmail.com",
+  "friendly_name": "Ada CLI",
+  "github_user": "iamlucassantos",
+  "license": "MIT",
+  "package_name": "ada",
+  "project_name": "ada-cli",
+  "version": "0.0.0"
+}
