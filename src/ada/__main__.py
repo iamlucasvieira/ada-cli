@@ -9,4 +9,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main(prog_name="ada-cli")  # pragma: no cover
+    main(prog_name="ada")  # pragma: no cover
